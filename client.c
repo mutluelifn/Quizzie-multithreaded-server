@@ -1,5 +1,5 @@
 //Programmer: Elif Nalan Mutlu
-//Program: CSCI3240 Final Project: Study App: Quizzie  - Quizzing Yourself!
+//Program: Study App: Quizzie  - Quizzing Yourself!
 
 
 #include "csapp.h"
