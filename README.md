@@ -21,7 +21,7 @@ Quizzie is a multi-threaded quiz server written in **C**, built using **POSIX so
 
 ---
 
-##How to Run:
+## How to Run:
 Clone the repository:  
    bash
    git clone https://github.com/mutluelifn/Quizzie-multithreaded-server.git
@@ -50,14 +50,14 @@ Example:
 ./client localhost 8080
 
 
-**Example Usage:**
+## Example Usage:
 
 Option 1: Add a new question
 Option 2: Take a quiz
 Option 3: Show score
 Option 4: Exit
 
-**Technologies Used:**
+## Technologies Used:
 
 C programming
 POSIX sockets (network communication)
@@ -66,10 +66,10 @@ Semaphores (synchronization and thread safety)
 CS:APP library (wrapper functions for sockets and concurrency)
 
 
-**Project Files**
+## Project Files
 server.c : Multi-threaded server logic, synchronization, and file handling
 client.c : Client-side interaction and communication with server
 csapp.h / csapp.c : Wrapper functions (required to build the project)
 
-
+## Reference:
 CS:APP wrappers are from Computer Systems: A Programmer’s Perspective by Randal Bryant & David O’Hallaron.
