@@ -5,7 +5,7 @@ Quizzie is a multi-threaded quiz server written in **C**, built using **POSIX so
 
 ---
 
-## 🔑 Features
+## Features
 - **Multi-threaded server**: each client runs in its own thread for concurrency.  
 - **Thread safety**: implemented reader–writer locks with semaphores.  
 - **Client–server communication**: built with POSIX sockets for stable networking.  
@@ -13,7 +13,7 @@ Quizzie is a multi-threaded quiz server written in **C**, built using **POSIX so
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - C programming language  
 - POSIX sockets (network communication)  
 - Pthreads (multi-threading)  
